@@ -1,0 +1,6 @@
+c:\users\ping\documents\visual studio 2015\Projects\Lab1crawl\Lab1crawl\bin\Debug\Lab1crawl.exe.config
+c:\users\ping\documents\visual studio 2015\Projects\Lab1crawl\Lab1crawl\obj\Debug\Lab1crawl.csprojResolveAssemblyReference.cache
+c:\users\ping\documents\visual studio 2015\Projects\Lab1crawl\Lab1crawl\bin\Debug\Lab1crawl.exe
+c:\users\ping\documents\visual studio 2015\Projects\Lab1crawl\Lab1crawl\bin\Debug\Lab1crawl.pdb
+c:\users\ping\documents\visual studio 2015\Projects\Lab1crawl\Lab1crawl\obj\Debug\Lab1crawl.exe
+c:\users\ping\documents\visual studio 2015\Projects\Lab1crawl\Lab1crawl\obj\Debug\Lab1crawl.pdb
